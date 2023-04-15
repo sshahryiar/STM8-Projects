@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=tm1650_demo.stp
+Dependencies=
+[Options]
+ActiveProject=tm1650_demo
+ActiveConfig=Debug
+AddSortedElements=1
